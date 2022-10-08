@@ -5,7 +5,7 @@
 #### Team Name: Cenos AI
   
 #### Your team’s hackathon idea in One sentence: 
-##### Our idea is a telehealth platform improving the medical diagnostics process.
+##### AI-powered telehealth platform improving the pre-diagnostics process.
 
 
 #### A visual
