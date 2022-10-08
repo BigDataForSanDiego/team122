@@ -2,9 +2,9 @@
 
 #### Team Number: 122  
 
-#### Team Name: 
+#### Team Name: Cenos AI
   
-#### Your team’s hackathon idea in One sentence:
+#### Your team’s hackathon idea in One sentence: 
 ##### Our idea is a telehealth platform improving the medical diagnostics process.
 
 
@@ -20,7 +20,7 @@
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 - [X] Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
-- [X] Privacy and Security
+- [ ] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
 #### Team Coordinator GitHub Username: @NhatHuynh1904
