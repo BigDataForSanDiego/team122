@@ -6,6 +6,7 @@ from .models import Info
 
 class InfoSerializer(serializers.ModelSerializer):
     class Meta:
+        model = Info
         fields = (
             "id",
             "first_name",
