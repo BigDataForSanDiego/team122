@@ -7,4 +7,4 @@ We collect the data and train our model primarily based on CDC Behavioral Risk F
 
 Patient -> Fillout basic screening questions (or set of questions given by hospital) -> Model 1 process -> If patient have higher chance of diabites -> Direct patient to 2nd model (or 3rd model if higher chance of heart disease).
 
-Our long term vision is build a machine learning model that can help detect all posible diseases. 
+Our long term vision is build a machine learning model that can help screening all posible diseases. 
