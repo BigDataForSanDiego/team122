@@ -26,4 +26,4 @@ Dylan Fitzpatrick
 
 Griffin You
 
-![alt text](https://drive.google.com/file/d/1xNkGZ2FHWDX8BJv_8fvOjhhQ2VpdH4wp/view?usp=sharing)
+See our process modeling to understand more about CENOS AI! https://drive.google.com/file/d/1xNkGZ2FHWDX8BJv_8fvOjhhQ2VpdH4wp/view?usp=sharing
