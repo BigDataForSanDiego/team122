@@ -1,0 +1,64 @@
+﻿Category,Subcategory,Year,% AMA Discharges,% AMA Discharges >1x,All Discharges,AMA Discharges,AMA Discharges More Than Once
+Admission Type,Elective,2019,0.90%,0.20%,524882,4841,1188
+Admission Type,Emergency,2019,3.20%,1.10%,1173202,37360,12790
+Admission Type,Urgent,2019,2.20%,0.70%,1010976,22626,6597
+Age,18-39 Years,2019,3.10%,1.00%,679695,20918,6579
+Age,40-64 Years,2019,3.50%,1.20%,876807,31111,10806
+Age,65 Years and Older,2019,1.10%,0.30%,1191056,13675,3314
+Expected Payer,County Indigent,2019,4.90%,1.00%,11017,538,113
+Expected Payer,Medi-Cal,2019,4.90%,1.80%,685248,33784,12554
+Expected Payer,Medicare,2019,1.50%,0.40%,1262906,19325,5672
+Expected Payer,Other,2019,2.70%,0.70%,68809,1891,448
+Expected Payer,Private,2019,1.20%,0.20%,682268,8116,1484
+Expected Payer,Self Pay,2019,5.50%,1.20%,36774,2036,424
+Primary Diagnosis,Acute Myocardial Infarction,2019,2.00%,0.50%,55890,1144,304
+Primary Diagnosis,Chronic Obstructive Pulmonary Disease (COPD),2019,3.70%,1.50%,45561,1668,680
+Primary Diagnosis,Diabetes,2019,4.70%,2.30%,58681,2729,1323
+Primary Diagnosis,Hypertensive Heart Disease,2019,3.00%,1.40%,89800,2650,1267
+Primary Diagnosis,Kidney Failure,2019,2.70%,0.80%,42514,1132,341
+Primary Diagnosis,Maternal Care (Labor/Delivery),2019,0.30%,0.00%,250787,756,112
+Primary Diagnosis,Pneumonia,2019,2.30%,0.70%,56498,1277,396
+Primary Diagnosis,Sepsis,2019,2.50%,0.80%,256169,6295,1956
+Primary Diagnosis,Substance Use Disorders,2019,11.70%,4.00%,46382,5418,1848
+Race/Ethnicity Group,American Indian/Alaska Native,2019,3.60%,1.10%,14815,538,164
+Race/Ethnicity Group,Asian,2019,1.00%,0.20%,231373,2214,439
+Race/Ethnicity Group,Black,2019,4.20%,1.60%,259923,10899,4195
+Race/Ethnicity Group,Hispanic,2019,2.10%,0.60%,728769,15465,4648
+Race/Ethnicity Group,Multiracial,2019,3.00%,1.10%,22800,688,250
+Race/Ethnicity Group,Native Hawaiian/Other Pacific Islander,2019,1.70%,0.50%,19736,334,89
+Race/Ethnicity Group,Other,2019,2.50%,0.70%,108925,2758,722
+Race/Ethnicity Group,White,2019,2.40%,0.80%,1348844,32537,10132
+Sex,Female,2019,1.60%,0.40%,1536958,24394,6595
+Sex,Male,2019,3.40%,1.20%,1210496,41308,14103
+Admission Type,Elective,2020,1.10%,0.30%,431889,4690,1131
+Admission Type,Emergency,2020,3.50%,1.20%,1076260,38134,12955
+Admission Type,Urgent,2020,2.60%,0.80%,907597,23617,7136
+Age,18-39 Years,2020,3.50%,1.10%,635154,22425,6949
+Age,40-64 Years,2020,4.20%,1.50%,782603,32488,11592
+Age,65 Years and Older,2020,1.20%,0.30%,1037176,12828,2894
+Expected Payer,County Indigent,2020,4.70%,1.10%,11006,519,121
+Expected Payer,Medi-Cal,2020,5.70%,2.10%,634960,36493,13565
+Expected Payer,Medicare,2020,1.70%,0.50%,1095368,18336,5157
+Expected Payer,Other,2020,3.20%,0.80%,62290,1966,518
+Expected Payer,Private,2020,1.30%,0.30%,620143,8311,1630
+Expected Payer,Self Pay,2020,6.90%,1.40%,30534,2095,437
+Primary Diagnosis,Acute Myocardial Infarction,2020,2.30%,0.70%,46529,1078,322
+Primary Diagnosis,Chronic Obstructive Pulmonary Disease (COPD),2020,4.80%,1.90%,27822,1348,533
+Primary Diagnosis,COVID-19 (2020 data only),2020,1.80%,0.30%,76525,1366,262
+Primary Diagnosis,Diabetes,2020,5.30%,2.50%,52616,2782,1335
+Primary Diagnosis,Hypertensive Heart Disease,2020,4.00%,2.00%,74389,2940,1456
+Primary Diagnosis,Kidney Failure,2020,3.10%,0.90%,35154,1077,325
+Primary Diagnosis,Maternal Care (Labor/Delivery),2020,0.30%,0.00%,231006,776,98
+Primary Diagnosis,Pneumonia,2020,2.80%,0.80%,44999,1277,377
+Primary Diagnosis,Sepsis,2020,2.90%,0.90%,261805,7616,2334
+Primary Diagnosis,Substance Use Disorders,2020,12.70%,4.40%,44650,5686,1947
+Race/Ethnicity Group,American Indian/Alaska Native,2020,4.90%,1.70%,8804,431,149
+Race/Ethnicity Group,Asian,2020,1.00%,0.20%,204109,2046,395
+Race/Ethnicity Group,Black,2020,4.60%,1.80%,229675,10619,4158
+Race/Ethnicity Group,Hispanic,2020,2.50%,0.80%,694191,17412,5280
+Race/Ethnicity Group,Multiracial,2020,4.60%,1.70%,31416,1450,521
+Race/Ethnicity Group,Native Hawaiian/Other Pacific Islander,2020,2.20%,0.70%,16453,364,121
+Race/Ethnicity Group,Other,2020,3.10%,0.90%,99834,3052,877
+Race/Ethnicity Group,White,2020,2.80%,0.90%,1154355,31990,9864
+Sex,Female,2020,1.80%,0.50%,1349590,24192,6501
+Sex,Male,2020,3.90%,1.40%,1105246,43545,14931

@@ -1,0 +1,125 @@
+﻿Year,Readmission After AMA or Not,Days Since Last Discharge,Readmissions,Discharges,Readmission Rate
+2019,Previous Discharge AMA,0,"2,336","32,306",7.23%
+2019,Previous Discharge AMA,1,"3,172","32,306",9.82%
+2019,Previous Discharge AMA,2,"1,880","32,306",5.82%
+2019,Previous Discharge AMA,3,"1,404","32,306",4.35%
+2019,Previous Discharge AMA,4,"1,117","32,306",3.46%
+2019,Previous Discharge AMA,5,982,"32,306",3.04%
+2019,Previous Discharge AMA,6,870,"32,306",2.69%
+2019,Previous Discharge AMA,7,815,"32,306",2.52%
+2019,Previous Discharge AMA,8,670,"32,306",2.07%
+2019,Previous Discharge AMA,9,623,"32,306",1.93%
+2019,Previous Discharge AMA,10,519,"32,306",1.61%
+2019,Previous Discharge AMA,11,551,"32,306",1.71%
+2019,Previous Discharge AMA,12,483,"32,306",1.50%
+2019,Previous Discharge AMA,13,485,"32,306",1.50%
+2019,Previous Discharge AMA,14,417,"32,306",1.29%
+2019,Previous Discharge AMA,15,426,"32,306",1.32%
+2019,Previous Discharge AMA,16,393,"32,306",1.22%
+2019,Previous Discharge AMA,17,374,"32,306",1.16%
+2019,Previous Discharge AMA,18,320,"32,306",0.99%
+2019,Previous Discharge AMA,19,350,"32,306",1.08%
+2019,Previous Discharge AMA,20,312,"32,306",0.97%
+2019,Previous Discharge AMA,21,302,"32,306",0.93%
+2019,Previous Discharge AMA,22,276,"32,306",0.85%
+2019,Previous Discharge AMA,23,277,"32,306",0.86%
+2019,Previous Discharge AMA,24,274,"32,306",0.85%
+2019,Previous Discharge AMA,25,238,"32,306",0.74%
+2019,Previous Discharge AMA,26,245,"32,306",0.76%
+2019,Previous Discharge AMA,27,226,"32,306",0.70%
+2019,Previous Discharge AMA,28,220,"32,306",0.68%
+2019,Previous Discharge AMA,29,226,"32,306",0.70%
+2019,Previous Discharge AMA,30,223,"32,306",0.69%
+2019,Previous Discharge Not AMA,0,"95,584","2,648,998",3.61%
+2019,Previous Discharge Not AMA,1,"23,338","2,648,998",0.88%
+2019,Previous Discharge Not AMA,2,"20,749","2,648,998",0.78%
+2019,Previous Discharge Not AMA,3,"20,236","2,648,998",0.76%
+2019,Previous Discharge Not AMA,4,"19,199","2,648,998",0.72%
+2019,Previous Discharge Not AMA,5,"17,846","2,648,998",0.67%
+2019,Previous Discharge Not AMA,6,"16,868","2,648,998",0.64%
+2019,Previous Discharge Not AMA,7,"15,954","2,648,998",0.60%
+2019,Previous Discharge Not AMA,8,"14,547","2,648,998",0.55%
+2019,Previous Discharge Not AMA,9,"13,403","2,648,998",0.51%
+2019,Previous Discharge Not AMA,10,"13,117","2,648,998",0.50%
+2019,Previous Discharge Not AMA,11,"12,796","2,648,998",0.48%
+2019,Previous Discharge Not AMA,12,"12,063","2,648,998",0.46%
+2019,Previous Discharge Not AMA,13,"11,576","2,648,998",0.44%
+2019,Previous Discharge Not AMA,14,"11,182","2,648,998",0.42%
+2019,Previous Discharge Not AMA,15,"10,329","2,648,998",0.39%
+2019,Previous Discharge Not AMA,16,"10,337","2,648,998",0.39%
+2019,Previous Discharge Not AMA,17,"9,929","2,648,998",0.37%
+2019,Previous Discharge Not AMA,18,"9,433","2,648,998",0.36%
+2019,Previous Discharge Not AMA,19,"8,948","2,648,998",0.34%
+2019,Previous Discharge Not AMA,20,"8,686","2,648,998",0.33%
+2019,Previous Discharge Not AMA,21,"8,702","2,648,998",0.33%
+2019,Previous Discharge Not AMA,22,"8,020","2,648,998",0.30%
+2019,Previous Discharge Not AMA,23,"7,777","2,648,998",0.29%
+2019,Previous Discharge Not AMA,24,"7,401","2,648,998",0.28%
+2019,Previous Discharge Not AMA,25,"7,502","2,648,998",0.28%
+2019,Previous Discharge Not AMA,26,"7,027","2,648,998",0.27%
+2019,Previous Discharge Not AMA,27,"6,870","2,648,998",0.26%
+2019,Previous Discharge Not AMA,28,"6,744","2,648,998",0.25%
+2019,Previous Discharge Not AMA,29,"6,313","2,648,998",0.24%
+2019,Previous Discharge Not AMA,30,"6,038","2,648,998",0.23%
+2020,Previous Discharge AMA,0,"2,247","32,361",6.94%
+2020,Previous Discharge AMA,1,"3,448","32,361",10.65%
+2020,Previous Discharge AMA,2,"1,951","32,361",6.03%
+2020,Previous Discharge AMA,3,"1,386","32,361",4.28%
+2020,Previous Discharge AMA,4,"1,139","32,361",3.52%
+2020,Previous Discharge AMA,5,968,"32,361",2.99%
+2020,Previous Discharge AMA,6,853,"32,361",2.64%
+2020,Previous Discharge AMA,7,789,"32,361",2.44%
+2020,Previous Discharge AMA,8,680,"32,361",2.10%
+2020,Previous Discharge AMA,9,682,"32,361",2.11%
+2020,Previous Discharge AMA,10,560,"32,361",1.73%
+2020,Previous Discharge AMA,11,563,"32,361",1.74%
+2020,Previous Discharge AMA,12,511,"32,361",1.58%
+2020,Previous Discharge AMA,13,536,"32,361",1.66%
+2020,Previous Discharge AMA,14,480,"32,361",1.48%
+2020,Previous Discharge AMA,15,386,"32,361",1.19%
+2020,Previous Discharge AMA,16,416,"32,361",1.29%
+2020,Previous Discharge AMA,17,357,"32,361",1.10%
+2020,Previous Discharge AMA,18,362,"32,361",1.12%
+2020,Previous Discharge AMA,19,340,"32,361",1.05%
+2020,Previous Discharge AMA,20,316,"32,361",0.98%
+2020,Previous Discharge AMA,21,287,"32,361",0.89%
+2020,Previous Discharge AMA,22,283,"32,361",0.87%
+2020,Previous Discharge AMA,23,263,"32,361",0.81%
+2020,Previous Discharge AMA,24,289,"32,361",0.89%
+2020,Previous Discharge AMA,25,233,"32,361",0.72%
+2020,Previous Discharge AMA,26,237,"32,361",0.73%
+2020,Previous Discharge AMA,27,229,"32,361",0.71%
+2020,Previous Discharge AMA,28,249,"32,361",0.77%
+2020,Previous Discharge AMA,29,222,"32,361",0.69%
+2020,Previous Discharge AMA,30,204,"32,361",0.63%
+2020,Previous Discharge Not AMA,0,"82,970","2,342,387",3.54%
+2020,Previous Discharge Not AMA,1,"20,072","2,342,387",0.86%
+2020,Previous Discharge Not AMA,2,"17,697","2,342,387",0.76%
+2020,Previous Discharge Not AMA,3,"17,393","2,342,387",0.74%
+2020,Previous Discharge Not AMA,4,"16,430","2,342,387",0.70%
+2020,Previous Discharge Not AMA,5,"15,449","2,342,387",0.66%
+2020,Previous Discharge Not AMA,6,"14,860","2,342,387",0.63%
+2020,Previous Discharge Not AMA,7,"13,847","2,342,387",0.59%
+2020,Previous Discharge Not AMA,8,"12,526","2,342,387",0.53%
+2020,Previous Discharge Not AMA,9,"11,783","2,342,387",0.50%
+2020,Previous Discharge Not AMA,10,"11,309","2,342,387",0.48%
+2020,Previous Discharge Not AMA,11,"10,722","2,342,387",0.46%
+2020,Previous Discharge Not AMA,12,"10,281","2,342,387",0.44%
+2020,Previous Discharge Not AMA,13,"9,979","2,342,387",0.43%
+2020,Previous Discharge Not AMA,14,"9,376","2,342,387",0.40%
+2020,Previous Discharge Not AMA,15,"8,704","2,342,387",0.37%
+2020,Previous Discharge Not AMA,16,"8,451","2,342,387",0.36%
+2020,Previous Discharge Not AMA,17,"8,456","2,342,387",0.36%
+2020,Previous Discharge Not AMA,18,"7,808","2,342,387",0.33%
+2020,Previous Discharge Not AMA,19,"7,711","2,342,387",0.33%
+2020,Previous Discharge Not AMA,20,"7,451","2,342,387",0.32%
+2020,Previous Discharge Not AMA,21,"7,222","2,342,387",0.31%
+2020,Previous Discharge Not AMA,22,"6,444","2,342,387",0.28%
+2020,Previous Discharge Not AMA,23,"6,471","2,342,387",0.28%
+2020,Previous Discharge Not AMA,24,"6,332","2,342,387",0.27%
+2020,Previous Discharge Not AMA,25,"6,103","2,342,387",0.26%
+2020,Previous Discharge Not AMA,26,"5,767","2,342,387",0.25%
+2020,Previous Discharge Not AMA,27,"5,880","2,342,387",0.25%
+2020,Previous Discharge Not AMA,28,"5,494","2,342,387",0.23%
+2020,Previous Discharge Not AMA,29,"5,231","2,342,387",0.22%
+2020,Previous Discharge Not AMA,30,"5,010","2,342,387",0.21%
