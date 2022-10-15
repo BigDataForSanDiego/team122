@@ -1,4 +1,5 @@
-We collect the data and train our model primarily based on CDC Behavioral Risk Factor Surveillance System https://www.cdc.gov/brfss/index.html. There is a summary for each model in the folder. 
+We collect the data and train our models primarily based on CDC Behavioral Risk Factor Surveillance System https://www.cdc.gov/brfss/index.html. We have 4 machine learning models with the following detail: 
+
 - (1) A machine learning model predict whether the patient is healthy, diabites, heart disease or both ~50% accuracy (dataset: raw CDC BRFSS 2015). 
 - (2) A machine learning model predict the chance the patient having diabites ~72% accuracy (dataset: raw CDC BRFSS 2021).
 - (3) A machine learning model predict the chance the patient having heart disease ~75% accuracy (dataset: raw CDC BRFSS 2021). 
